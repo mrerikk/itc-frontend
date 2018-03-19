@@ -1,4 +1,4 @@
-﻿	/*=======Main1=======
+﻿	/*=======Main1============
 	function plus1 (number1, number2) {
 		return number1+number2;
 	}
