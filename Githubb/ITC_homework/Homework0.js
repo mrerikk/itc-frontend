@@ -174,6 +174,7 @@
 	getQuadrant(4, -7); 
 	getQuadrant(0, 0);
 	}
+	console.log('Миша, не болей!');
 	console.log('outputTask1 = ' + plus(2, 3, 5, 7, 3));
 	console.log('outputTask2.1 = ' + multiplyAll(2, 3, 1, 7, 8));
 	console.log('outputTask2.2 = ' + multiplyAll(2, 3, 1, 7, 8));
